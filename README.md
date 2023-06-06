@@ -1,1 +1,2 @@
-My first readme
+My first day
+I love SE Alx
